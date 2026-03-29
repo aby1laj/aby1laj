@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Kudo 👋</h1>
+<h1 align="center">Hi 👋</h1>
 
 <p align="center">
   <b>Student • Developer • Cybersecurity Enthusiast</b>
@@ -8,10 +8,8 @@
 
 ### 🧠 About Me
 - 🎓 Studying IT / Cybersecurity  
-- 🐧 Using Debian as main OS  
-- 🔍 Interested in reverse engineering & CTF  
-- ⚡ Building real projects, not tutorials  
-
+- 🐧 i use arch btw  
+- 🔍 Interested in reverse engineering & CTF   
 ---
 
 ### 🛠 Tech Stack
@@ -34,13 +32,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
 </p>
 
----
-
-### 🌐 Contact
-- Telegram: @your_username  
-- Email: your@email.com  
-
----
-
-### ⚡ Fun Fact
-> I prefer building things from scratch instead of using bloated tools.
