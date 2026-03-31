@@ -20,7 +20,6 @@
 ---
 
 ### 🚀 Projects
-- 🔹 **Haqathon Platform** — hackathon management system  
 - 🔹 **Book Reader App** — GUI Python reader with animations  
 - 🔹 **Meal Planner** — nutrition-based planning tool  
 
