@@ -8,7 +8,7 @@
 
 ### 🧠 About Me
 - 🎓 Studying IT / Cybersecurity  
-- 🐧 i use arch btw  
+- 🐧 i use nixos btw  
 - 🔍 Interested in reverse engineering & CTF   
 ---
 
